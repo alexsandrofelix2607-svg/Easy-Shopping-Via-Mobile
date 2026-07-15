@@ -15,8 +15,8 @@ O objetivo foi praticar responsividade, HTML semântico e CSS moderno. Desenvolv
 - ✅ Botões com efeitos e interações
 
 ## 🖼️ Preview
-*Adicione aqui uma print do seu projeto*
 
+<img src="https://github.com/alexsandrofelix2607-svg/Easy-Shopping-Via-Mobile/blob/main/assets/mobile.jpeg?raw=true" alt="Preview Easy Shopping Via Mobile" width="600"/>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 
